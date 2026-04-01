@@ -1,0 +1,21 @@
+Data sources:
+
+- Variable Conflict: ACLED. (2024). ACLED Conflict Index. https://acleddata.com/series/acled-conflict-index
+
+- Variable Key Biodiversity Areas: BirdLife International. (2025). Digital boundaries of Key Biodiversity Areas from the World Database of Key Biodiversity Areas. Developed by the KBA Partnership: BirdLife International, International Union for the Conservation of Nature, American Bird Conservancy, Amphibian Survival Alliance, Conservation International, Critical Ecosystem Partnership Fund, Global Environment Facility, Re:Wild, NatureServe, Rainforest Trust, Royal Society for the Protection of Birds, Wildlife Conservation Society and World Wildlife Fund. http://www.keybiodiversityareas.org/kba-data/request
+
+- Variable Biodiversity Intactness: De Palma, A., Contu, S., Thomas, G. E., Duffin, C., Nix, S., & Purvis, A. (2024). The Biodiversity Intactness Index developed by The Natural History Museum, London (v2.1.1).
+
+- Country Boundaries: Esri. (2025, June 27). World Countries Generalized. https://hub.arcgis.com/datasets/esri::world-countries-generalized/about
+
+- Variable Water Risk: Kuzma, S., Bierkens, M. F. P., Lakshman, S., Luo, T., Saccoccia, L., Sutanudjaja, E. H., & Van Beek, R. (2023). Aqueduct 4.0: Updated  decision-relevant global water risk indicators. https://doi.org/http://doi.org/10.46830/writn.23.00061
+
+- Variable Indigenous Peoples' and Local Communities' Lands and Variable Land Rights: LandMark. (2024). LandMark: The Global Platform of Indigenous and Community Lands. http://www.landmarkmap.org
+
+- Variable Environmental Democracy: The Access Initiative. (2015). The Environmental Democracy Index. www.environmentaldemocracyindex.org
+
+- Variable Poverty: UNDP (United Nations Development Programme). (2025b). Human Development Report 2025. https://report.hdr.undp.org
+
+- Variable Protected Area:UNEP-WCMC, & IUCN. (2025). Protected Planet: The World Database on Protected Areas (WDPA). www.protectedplanet.net.
+
+- Variable Rule of Law: World Justice Project. (2025). WJP Rule of Law Index 2025. https://worldjusticeproject.org/rule-of-law-index/
